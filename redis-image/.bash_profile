@@ -1,0 +1,23 @@
+export SPARK_HOME=/Users/devbratsharma/Downloads/spark/spark-2.4.6-bin-hadoop2.7
+export PATH=$PATH:$SPARK_HOME/bin:$SPARK_HOME/sbin
+export PATH=/Users/devbratsharma/Downloads/apache-maven-3.8.6/bin:$PATH
+export PATH=/Users/devbratsharma/Downloads/oc:$PATH
+export M2_HOME='/Users/devbratsharma/apache-maven-3.8.6'
+export MAVEN_SITE_PROFILE="site-profile-svl"
+export MAVEN_NPM_AUTH="RGV2YnJhdC5TaGFybWFAaWJtLmNvbTpEZXZicmF0QDMxMTAxOTk1"
+export INTRANET_ID="Devbrat.Sharma@ibm.com"
+export ARTIFACTORY_USER="Devbrat.Sharma@ibm.com"
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_311.jdk/Contents/Home
+export ARTIFACTORY_TOKEN="<artifactory_token>"
+
+export JAVA_HOME=$(/usr/libexec/java_home -v1.8.0_391)
+export M2_HOME="/opt/apache-maven-3.8.6"
+export MAVEN_SITE_PROFILE="site-profile-svl"
+export MAVEN_NPM_AUTH="RGV2YnJhdC5TaGFybWFAaWJtLmNvbTpEZXZicmF0QDMxMTAxOTk1"
+export SPARK_HOME="/opt/spark-2.4.6-bin-hadoop2.7"
+export PATH=$PATH:$M2_HOME/bin
+export PATH=$PATH:$SPARK_HOME/bin:$SPARK_HOME/sbin
+export INTRANET_ID="Devendrasingh.Thakur@ibm.com"
+export ARTIFACTORY_USER="Devendrasingh.Thakur@ibm.com"
+export ARTIFACTORY_TOKEN="cmVmdGtuOjAxOjE3MDgzNDY0NDY6VVI4ZllFVnRJaEVGSGIxbEg1S2JkUDFXRFJY"
+export ARTIFACTORY_API_KEY="cmVmdGtuOjAxOjE3MDgzNDY0NDY6VVI4ZllFVnRJaEVGSGIxbEg1S2JkUDFXRFJY"

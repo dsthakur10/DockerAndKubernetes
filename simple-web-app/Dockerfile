@@ -5,7 +5,7 @@ FROM node:14-alpine
 # Specify the working directory 
 WORKDIR /usr/devendra/app
  
-# Copy package.json inside container so that npm can install dependencies --> This will stop Docker to re-install unchange dependencies
+# Copy package.json inside container so that npm can install dependencies --> This will stop Docker to re-install unchanged dependencies
 COPY ./package.json ./
 
 # Install some dependencies
